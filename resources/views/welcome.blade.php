@@ -1,3 +1,4 @@
+{{-- Task Management System - Welcome View --}}
 <!DOCTYPE html>
 <html lang="en">
 <head>
