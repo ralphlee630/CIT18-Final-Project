@@ -1,23 +1,15 @@
-# TaskManager Application (Laravel 11)
+# Task Management System
 
-A complete, production-ready Task Management application built with Laravel 11. Optimized for deployment on Railway using SQLite for persistence.
+A Laravel-based Task Management System built for CIT18 Final Project.
 
 ## Features
--   **User Authentication**: Secure Registration, Login, and Logout.
--   **Task CRUD**: Create, Read, Update, and Delete tasks.
--   **Status Tracking**: Mark tasks as completed or pending.
--   **Dashboard**: Overview of task statistics.
--   **Mobile Friendly**: Clean UI built with Tailwind CSS.
--   **Railway Ready**: Pre-configured `Procfile` and SQLite database setup.
+- User Authentication (Login, Register, Logout)
+- Task CRUD (Create, Read, Update, Delete)
+- Task Priority and Status tracking
+- Responsive UI with TailwindCSS
 
-## Prerequisites
--   PHP 8.2 or higher
--   Composer
--   Node.js & NPM (Optional, as this uses Tailwind via CDN)
--   SQLite3
-
-## Installation (Local Development)
-
-1.  **Download and Extract** the project files.
-2.  **Install Dependencies**:
-    
+## Tech Stack
+- Laravel 11
+- TailwindCSS
+- SQLite
+- PHP 8.2
