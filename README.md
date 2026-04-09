@@ -13,3 +13,9 @@ A Laravel-based Task Management System built for CIT18 Final Project.
 - TailwindCSS
 - SQLite
 - PHP 8.2
+
+
+### April 9 on new branch
+- For Tailwind classes
+
+
